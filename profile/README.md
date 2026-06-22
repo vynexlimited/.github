@@ -32,7 +32,7 @@ client.chat.completions.create(model="claude-opus-4-8", messages=[...])
 
 | Family | Flagship models |
 |--------|-----------------|
-| OpenAI | `gpt-5.2`, `gpt-5.1`, `gpt-5`, `gpt-4o`, `gpt-4o-mini` |
+| OpenAI | `gpt-5.5`, `gpt-5.4`, `gpt-5.4-mini`, `gpt-5.4-nano` |
 | Anthropic | `claude-opus-4-8`, `claude-sonnet-4-6`, `claude-haiku-4-5-20251001` |
 | Google | `gemini-3.1-pro-preview`, `gemini-3-pro-preview`, `gemini-2.5-pro`, `gemini-2.5-flash` |
 | Open | `deepseek/deepseek-v3.2`, `qwen3.5-plus`, `GLM-5` |
