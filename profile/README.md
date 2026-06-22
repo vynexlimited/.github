@@ -28,6 +28,10 @@ client = OpenAI(
 client.chat.completions.create(model="claude-opus-4-8", messages=[...])
 ```
 
+## Payments
+
+No foreign credit card? No problem. Vynex accepts **USDT** (TRC20 / ERC20) top-ups, so devs in regions where OpenAI/Anthropic cards get declined (MENA, SEA, LatAm) can pay without a foreign card. Cards and bank transfer also supported.
+
 ## Models available
 
 | Family | Flagship models |
@@ -54,5 +58,5 @@ Streaming, function/tool calling, and structured output are supported across all
 | [`vynex-api-sdk`](https://github.com/vynexlimited/vynex-api-sdk) | Public SDK & code examples (Python, Node.js, curl) |
 
 <div align="center">
-<sub>Transparent per-token pricing · OpenAI-compatible · Global access</sub>
+<sub>Transparent per-token pricing · OpenAI-compatible · Pay with USDT — global access</sub>
 </div>
