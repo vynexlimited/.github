@@ -61,3 +61,16 @@ Streaming, function/tool calling, and structured output are supported across all
 <div align="center">
 <sub>Transparent per-token pricing · OpenAI-compatible · Pay with USDT — global access</sub>
 </div>
+
+---
+
+## 📊 GLM-5.2 Pricing & SEO Pages
+
+| Page | What it covers |
+|------|----------------|
+| [GLM-5.2 API Pricing](https://llm-api.vynexcloud.com/glm-5.2-api/) | GLM-5.2 at $0.91/$2.86 per 1M tokens — 65% off Z.ai |
+| [USDT API Payment](https://llm-api.vynexcloud.com/usdt-api-payment/) | Pay with USDT — Russia, Iran, MENA, SEA |
+| [AI Content Generation API](https://llm-api.vynexcloud.com/ai-content-generation-api/) | For AI short drama, novel, e-commerce studios |
+| [Vynex vs OpenRouter](https://llm-api.vynexcloud.com/vs-openrouter/) | Comparison with OpenRouter |
+
+**Contact:** Telegram @paopao · **Company:** Vynex Limited (Hong Kong)
