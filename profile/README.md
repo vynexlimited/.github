@@ -4,7 +4,8 @@
 
 ### One OpenAI-compatible endpoint for every frontier model.
 
-Call GPT, Claude, Gemini, DeepSeek, Qwen and GLM from a single `/v1` endpoint.
+Call GPT, Claude, Gemini, DeepSeek, Qwen and **GLM-5.2** from a single `/v1` endpoint.
+GLM-5.2 at **$0.91/$2.86 per 1M tokens** (volume tier) — 65% off Z.ai official.
 Keep your existing OpenAI SDK — just change the `base_url`.
 
 </div>
@@ -25,7 +26,7 @@ client = OpenAI(
     base_url="https://llm-api.vynexcloud.com/v1",
 )
 # Same call works for GPT, Claude, Gemini, DeepSeek, Qwen, GLM:
-client.chat.completions.create(model="claude-opus-4-8", messages=[...])
+client.chat.completions.create(model="glm-5.2"  # or claude-opus-4-8, gpt-5.2, gemini-3-pro, messages=[...])
 ```
 
 ## Payments
